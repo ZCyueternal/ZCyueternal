@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 ### Hi there 👋
 
 - 🔭 I’m currently a master student at Shandong University.
-- 🌱 I’m focusing on cross-modal hashing and Federated Learning.
+- 🌱 I’m focusing on cross-modal retrieval and Incremental Learning.
 - 📫 How to reach me: zcyu_eternal@foxmail.com
 - ✨ Website: [zcyueternal.github.io](https://zcyueternal.github.io/)
