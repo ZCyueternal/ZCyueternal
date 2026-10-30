@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 
-- 🔭 I am an incoming PhD student at Harbin Institute of Technology, Shenzhen (HITSZ).
-- 🌱 I’m focusing on Long Video Understanding, Multimodal Large Language Models (MLLMs), and World Models.
+- 🔭 I am a PhD student at Harbin Institute of Technology, Shenzhen (HITSZ).
+- 🌱 I’m focusing on Long Video Understanding, Self-Evolving Agent, and World Models.
 - 📫 How to reach me: zcyu_eternal@foxmail.com
 - ✨ Website: [zcyueternal.github.io](https://zcyueternal.github.io/)
 
